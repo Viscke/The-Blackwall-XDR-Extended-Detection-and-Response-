@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/language-Python-3776AB)
 ​
 
-![Dashboard Preview](./assets/dashboard.png)
+![Dashboard Preview](imagem.png)
 ![Dashboard Preview](./assets/dashboard2.png)
 
 O projeto é fragmentado em módulos especializados, utilizando a melhor linguagem para cada domínio crítico:
