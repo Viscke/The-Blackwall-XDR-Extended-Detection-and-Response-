@@ -1,3 +1,12 @@
+![Rust](https://img.shields.io/badge/language-Rust-orange)
+![C++](https://img.shields.io/badge/language-C++-blue)
+![Go](https://img.shields.io/badge/language-Go-00ADD8)
+![Python](https://img.shields.io/badge/language-Python-3776AB)
+​
+
+![Dashboard Preview](./assets/dashboard.png)
+![Dashboard Preview](./assets/dashboard2.png)
+
 O projeto é fragmentado em módulos especializados, utilizando a melhor linguagem para cada domínio crítico:
 ​Core Engine (Rust): O "Cérebro" do sistema. Gerencia a memória de forma segura e utiliza a API de monitoramento nativa do Windows para detecção de alterações em nanossegundos.
 ​Guardian Module (C++): A lâmina do sistema. Interage diretamente com o Kernel do Windows (Win32 API) para terminação forçada de processos e injeção de regras de Firewall.
