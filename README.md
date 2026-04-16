@@ -10,7 +10,7 @@ A **Blackwall XDR** é uma solução avançada de cibersegurança desenvolvida p
 
 ## 📸 Interface do Sistema
 ![Dashboard Preview](image.png)
-![Dashboard Preview](image1.png)
+![Dashboard Preview](image-1.png)
 
 
 ---
