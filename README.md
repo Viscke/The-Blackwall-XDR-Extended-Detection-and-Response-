@@ -5,7 +5,6 @@
 ​
 
 ![Dashboard Preview](imagem.png)
-![Dashboard Preview](./assets/dashboard2.png)
 
 O projeto é fragmentado em módulos especializados, utilizando a melhor linguagem para cada domínio crítico:
 ​Core Engine (Rust): O "Cérebro" do sistema. Gerencia a memória de forma segura e utiliza a API de monitoramento nativa do Windows para detecção de alterações em nanossegundos.
