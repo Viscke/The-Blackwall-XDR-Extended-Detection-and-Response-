@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/language-Python-3776AB)
 ​
 
-![Dashboard Preview]([imagem.png](https://github.com/Viscke/The-Blackwall-XDR-Extended-Detection-and-Response-/blob/main/image.png)
+![Dashboard Preview](image.png)
 
 O projeto é fragmentado em módulos especializados, utilizando a melhor linguagem para cada domínio crítico:
 ​Core Engine (Rust): O "Cérebro" do sistema. Gerencia a memória de forma segura e utiliza a API de monitoramento nativa do Windows para detecção de alterações em nanossegundos.
